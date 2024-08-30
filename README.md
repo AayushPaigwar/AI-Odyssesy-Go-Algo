@@ -2,6 +2,14 @@
 
 Welcome to the **Go Algo in AI Odyssey** Flutter game application repository! This app is developed for the "AI Odyssey," which is Central India's biggest event focusing on recent trends in Artificial Intelligence. The game, "Go Algo," is designed to challenge players with AI-powered algorithms and enhance their problem-solving skills in an engaging and entertaining way.
 
+---
+## Glimp's of UI
+
+| Screen 1                    | Screen 2                    | Screen 3                    | Screen 4                    |
+| --------------------------- | --------------------------- | --------------------------- | --------------------------- |
+| ![Image 1](readme-assets/1.jpg) | ![Image 2](readme-assets/2.jpg) | ![Image 3](readme-assets/3.jpg) | ![Image 4](readme-assets/7.jpg) |
+
+
 ## Getting Started
 
 To get started with the Go Algo game, you can follow these steps:
@@ -69,13 +77,6 @@ We welcome contributions to improve and enhance the Go Algo in AI Odyssey game a
 4. Submit a pull request to this repository, explaining the changes you have made.
 
 We appreciate your valuable contributions!
-
----
-## Glimp's of UI
-
-| Screen 1                    | Screen 2                    | Screen 3                    | Screen 4                    |
-| --------------------------- | --------------------------- | --------------------------- | --------------------------- |
-| ![Image 1](readme-assets/1.jpg) | ![Image 2](readme-assets/2.jpg) | ![Image 3](readme-assets/3.jpg) | ![Image 4](readme-assets/7.jpg) |
 
 ---
 Thank you for your interest in Go Algo in AI Odyssey! We hope you enjoy playing the game and learning more about AI algorithms through this interactive experience. We have made the game as open-source so any body can make the changes in UI and backend and use it. 🚀
